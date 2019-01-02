@@ -7,7 +7,7 @@ Content from https://docs.djangoproject.com/en/2.1/intro/reusable-apps/#packagin
 Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
 
-Detailed documentation is in the "docs" directory. <- is this actually true?
+TODO provide documentation in the "docs" directory.
 
 Quick start
 -----------

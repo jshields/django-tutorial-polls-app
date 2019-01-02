@@ -1,0 +1,14 @@
+Django==2.1.4
+
+# dependency of Django
+pytz==2018.7
+
+# linters
+bandit
+pyflakes
+
+# dev
+ipython
+
+# build
+setuptools
