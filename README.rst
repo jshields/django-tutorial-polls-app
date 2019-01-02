@@ -2,7 +2,12 @@
 Polls
 =====
 
-Content from https://docs.djangoproject.com/en/2.1/intro/reusable-apps/#packaging-your-app
+This is from the "How to write reusable apps" Django tutorial.
+
+https://docs.djangoproject.com/en/2.1/intro/reusable-apps/
+
+Now that this app has been packaged independently, it has no way to run its own tests (no `manage.py`),
+which seems wrong.
 
 Polls is a simple Django app to conduct Web-based polls. For each
 question, visitors can choose between a fixed number of answers.
