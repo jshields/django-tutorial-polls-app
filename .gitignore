@@ -1,0 +1,8 @@
+__pycache__
+
+# don't save created polls in version control, make the app data fresh every time
+db.sqlite3
+
+# build artifacts
+django_tutorial_polls_app.egg-info/
+dist/
