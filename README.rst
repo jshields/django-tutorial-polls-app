@@ -6,7 +6,9 @@ This is from the "How to write reusable apps" Django tutorial.
 
 https://docs.djangoproject.com/en/2.1/intro/reusable-apps/
 
-Now that this app has been packaged independently, it has no way to run its own tests (no `manage.py`),
+Now that this app has been packaged independently,
+(previously part of https://github.com/jshields/django-tutorial-mysite-project)
+it has no way to run its own tests (no `manage.py`),
 TODO provide a way to run tests: https://stackoverflow.com/questions/10897090/how-to-test-single-application-not-project-in-django
 
 Polls is a simple Django app to conduct Web-based polls. For each
